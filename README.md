@@ -1,2 +1,2 @@
-# laravel-sb-admin-template
-Bootstrap SB Admin 2 Template for Laravel
+# Laravel SB Admin 2 Template
+Is a Laravel installation with Bootstrap SB Admin 2 Template
